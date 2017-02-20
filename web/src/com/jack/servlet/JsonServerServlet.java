@@ -54,7 +54,7 @@ public class JsonServerServlet extends HttpServlet {
 	        Person person1 = new Person();
 	        person1.setName("Jack");
 	        person1.setAge(25);
-	        person1.setUrl("http://pic.58pic.com/58pic/15/62/59/07B58PIChHu_1024.jpg");
+	        person1.setUrl("http://imgsrc.baidu.com/forum/pic/item/0e2442a7d933c895d10947f9d11373f082020038.jpg");
 	        List<SchoolInfo> schools = new ArrayList<SchoolInfo>();
 	        SchoolInfo schoolInfo1 = new SchoolInfo();
 	        schoolInfo1.setSchool_name("清华");
@@ -69,7 +69,7 @@ public class JsonServerServlet extends HttpServlet {
 	        Person person2 = new Person();
 	        person2.setName("Rose");
 	        person2.setAge(22);
-	        person2.setUrl("http://pic.58pic.com/58pic/15/62/59/07B58PIChHu_1024.jpg");
+	        person2.setUrl("http://imgsrc.baidu.com/forum/pic/item/e61190ef76c6a7efba84856ffdfaaf51f2de66dc.jpg");
 	        List<SchoolInfo> schools1 = new ArrayList<SchoolInfo>();
 	        SchoolInfo schoolInfo3 = new SchoolInfo();
 	        schoolInfo3.setSchool_name("复旦");
